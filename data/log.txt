@@ -1,0 +1,9 @@
+[2025-08-10 10:00:00] INFO: Application started
+[2025-08-10 10:00:01] WARNING: Disk space below 20%
+[2025-08-10 10:00:02] INFO: User john.doe logged in
+[2025-08-10 10:00:05] ERROR: Failed to connect to database
+[2025-08-10 10:00:06] INFO: Retrying connection
+[2025-08-10 10:00:08] ERROR: Connection timed out
+[2025-08-10 10:00:10] INFO: Connection established
+not a log line and should be ignored
+[2025-08-10 10:01:00] WARNING: High memory usage detected
